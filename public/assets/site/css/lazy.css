@@ -1,0 +1,7 @@
+.lazy-image{
+    width: 100%;height: auto;filter: blur(8px);
+    display: block !important;
+}
+.load-me{
+    display:none;
+}
